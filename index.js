@@ -4,7 +4,7 @@ var element = numbers[1];
 console.log(element);
 numbers[1] = 77;
 // set element value by index
-numbers[3] = 33;
+numbers[2] = 33;
 console.log(numbers);
 // 3. find index of an element
 var positionIndex = numbers.indexOf(95);
